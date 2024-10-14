@@ -1,0 +1,7 @@
+target/*
+compiler.xml
+encodings.xml
+jarRepositories.xml
+misc.xml
+vcs.xml
+.idea/*
